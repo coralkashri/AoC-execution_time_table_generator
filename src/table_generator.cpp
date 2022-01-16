@@ -28,7 +28,7 @@ std::string table_generator::produce_table(bool include_empty_days) {
     uint8_t day = 1;
     for (const auto &[first, second] : days_details) {
         if (include_empty_days || !first.empty() || !second.empty()) {
-            table_res << "| " << (int)day << " | " << first << " | " << second << " |\n";
+            table_res << "| [" << (int)day << "](./day_" << (int)day << ".hpp) | " << first << " | " << second << " |\n";
         }
         ++day;
     }
