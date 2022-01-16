@@ -1,0 +1,75 @@
+Day 1
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+
+Day 2
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+
+Day 4
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+
+Day 3
+Second: 5 seconds, 50 milliseconds
+
+Day 6
+First: 50 milliseconds
+
+Day 7
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+
+Day 8
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 9
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 10
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 11
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 12
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 13
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 14
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+15
+First: 50 milliseconds
+Day16
+Second: 5 seconds, 50 milliseconds
+
+17 Day
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 18
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 19
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 20
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 21
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 22
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 23
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 25
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds
+Day 24
+First: 50 milliseconds
+Second: 5 seconds, 50 milliseconds

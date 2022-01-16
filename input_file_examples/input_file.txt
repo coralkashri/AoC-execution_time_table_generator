@@ -1,0 +1,15 @@
+12
+First: 12milli
+
+25
+Second: 1 seconds, 130 milli
+first: 50micro
+
+Day6
+sEcOnd: milli-50 seconds-30 6-micro
+
+Day 7
+Day8
+Day 20
+first : 0 seconds, 0 milliseconds, 500 microseconds, 0 nanoseconds
+  second  : 0 seconds, 2 milliseconds, 500 microseconds, 0 nanoseconds
