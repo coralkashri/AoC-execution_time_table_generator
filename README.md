@@ -3,11 +3,15 @@
 This tool produces an execution time table for days part of Advent of Code puzzles.<br>
 Usage example: https://github.com/coralkashri/AOC/blob/master/src/2020/README.md.
 
+* [Run Command](#run-command)
 * [Output Example](#output-example)
 * [Input File Syntax](#input-file-syntax)
   + [Legal input lines](#legal-input-lines)
   + [Legal input days](#legal-input-days)
   + [Illegal input lines](#illegal-input-lines)
+
+## Run Command
+```AoC_execution_time_table_generator path/to/input/file.ext```
 
 ## Output Example
 
